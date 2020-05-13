@@ -1,0 +1,1 @@
+This is a house price predictor coded in python which operates on the principle of multivariable regression and can predict the price of a house on the basis of upto 13 factors which are specified in the boston house price dataset in scikitlearn module's inbuilt datasets. This file is coded in python 3
